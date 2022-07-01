@@ -2,8 +2,10 @@
 
 /**
  * main - Entry point
+ *
  * Return - Always 0 (success)
  */
+
 int main(void)
 {
 	char acharacter;
@@ -15,7 +17,6 @@ int main(void)
 	long long alonglong;
 
 	float afloat;
-
 
 	printf("Size of a char: %lu byte(s)\n", sizeof(acharacter));
 
