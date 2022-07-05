@@ -12,7 +12,7 @@ void print_alphabet_x10(void)
 
 	char letter;
 
-	while (count = 0 count <= 9 count++)
+	while (count++ <= 9)
 
 	{
 		for (letter = 'a'; letter <= 'z'; letter++)
